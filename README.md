@@ -14,6 +14,6 @@ d) Sub-carpeta Datasets adonde estan los archivos con las Bases de datos utiliza
 Archivos de soporte:
 1) Link del deploy https://migueltp1.herokuapp.com/  (Este end point a veces fallo por lo que se creo un video cuyo link esta a continuacion)
 
-2) Link del video explicativo: https://youtu.be/zjPMvUfPw84  
+2) Link del video explicativo: https://youtu.be/Z1BPczytELo
 
 Cualquier duda, consultarme al mail> mvitelli77@gmail.com
