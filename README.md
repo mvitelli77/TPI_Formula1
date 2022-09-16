@@ -10,3 +10,10 @@ b) requirements.txt / Procfile / .gitignore / runtime.txt Estos son 4 archivos n
 c) TP1.sql y TP1.mwb Son los archivos de MySQL Workbench utilizados para realizar las consultas y las relaciones entre los datasets.
 
 d) Sub-carpeta Datasets adonde estan los archivos con las Bases de datos utilizadas.
+
+Archivos de soporte:
+1) Link del deploy https://migueltp1.herokuapp.com/  (Este end point a veces fallo por lo que se creo un video cuyo link esta a continuacion)
+
+2) Link del video explicativo: https://youtu.be/zjPMvUfPw84  
+
+Cualquier duda, consultarme al mail> mvitelli77@gmail.com
